@@ -242,6 +242,10 @@ ol {
   padding: 20px;
 }
 
+.des h3 {
+  margin: 0;
+}
+
 .hobby {
   display: flex;
   justify-content: center;
@@ -536,7 +540,7 @@ footer {
   }
 
   .card img {
-    height: 155px;
+    height: 200px;
   }
 
   /* ----------section4---------- */
