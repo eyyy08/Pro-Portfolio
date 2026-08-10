@@ -459,6 +459,7 @@ footer {
     height: auto;
     min-height: 100vh;
     padding: 120px 20px 50px;
+    scroll-margin-top: 30px;
     flex-direction: column;
     gap: 25px;
   }
@@ -506,6 +507,7 @@ footer {
     height: auto;
     min-height: 100vh;
     padding: 100px 20px 50px;
+    scroll-margin-top: 60px;
   }
 
   .hobby {
@@ -543,6 +545,7 @@ footer {
     height: auto;
     min-height: 100vh;
     padding: 70px 15px 40px;
+    scroll-margin-top: 90px;
   }
 
   .gallery {
@@ -572,6 +575,7 @@ footer {
     padding: 120px 20px 50px;
     flex-direction: column;
     gap: 30px;
+    scroll-margin-top: 100px;
   }
 
   #section5 h1 {
