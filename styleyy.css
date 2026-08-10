@@ -317,6 +317,17 @@ ol {
   flex-direction: column;
 }
 
+.contact-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  display: block;
+}
+
+.contact-detail {
+  margin-left: 28px;
+}
+
 .info a {
   text-decoration: none;
 }
@@ -577,6 +588,10 @@ footer {
     font-size: 1.1rem;
   }
 
+  .contact-detail {
+    margin-left: 0;
+  }
+
   .info h2 {
     margin-bottom: 10px;
   }
@@ -703,6 +718,10 @@ footer {
   .card {
     width: 280px;
     height: 380px;
+  }
+
+  .card img {
+    height: 155px;
   }
 
   /* ----------section4---------- */
